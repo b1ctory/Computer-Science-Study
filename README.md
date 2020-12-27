@@ -12,5 +12,8 @@
   1. [검색]
   2. [스택 & 큐]
 
-- 경욱 : [검색 + 스택 & 큐] https://ku-na.tistory.com/2
+- 경욱 : 
+  
+  [검색 + 스택 & 큐]: https://ku-na.tistory.com/2
 
+  1. [검색 + 스택 & 큐]
