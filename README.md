@@ -8,7 +8,7 @@
 
   [검색]: https://www.notion.so/5d76289e9e1248769f9156f98bc953f3
   [스택 & 큐]: https://www.notion.so/2e8773febdd64c259f8de3a3ed1e949b
-  [컴퓨터 시스템과 운영체제] : https://www.notion.so/d56ffa3073ae4bf98db882ed0187c467
+  [컴퓨터 시스템과 운영체제]: https://www.notion.so/d56ffa3073ae4bf98db882ed0187c467
 
   1. [검색]
   2. [스택 & 큐]
