@@ -1,4 +1,4 @@
-# Interview_Study
+# Computer-Science-Study
 
 #### 1주차 - (월)
 
