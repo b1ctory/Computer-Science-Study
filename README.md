@@ -32,7 +32,10 @@
 - 수빈 : 
 
   [재귀]: https://www.notion.so/ebfc54f54f1e461390c70bd0d6a79f97
-
+[정렬]: https://www.notion.so/9515e9ab7e44496592ed61f49ca5083a
+  
+  
+  
   1. [재귀]
   2. [정렬]
 
