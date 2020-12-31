@@ -16,7 +16,7 @@
 - 경욱 : 
   
   [검색 + 스택 & 큐]: https://ku-na.tistory.com/2
-  [운영체제 기초] : https://ku-na.tistory.com/3
+  [운영체제 기초]: https://ku-na.tistory.com/3
   
   1. [검색 + 스택 & 큐]
 
