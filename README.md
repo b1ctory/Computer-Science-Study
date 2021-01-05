@@ -50,3 +50,9 @@
   [프로세스와 프로세스 관리]: https://www.notion.so/7ac4c67bebd1457892a66addef20fdf8
 
   1. [프로세스와 프로세스 관리]
+  
+ - 경욱 : 
+ 
+  [프로세스와 프로세스 관리] : https://ku-na.tistory.com/5
+  
+  [프로세스와 프로세스 관리]
