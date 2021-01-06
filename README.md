@@ -51,7 +51,26 @@
 
   1. [프로세스와 프로세스 관리]
   
- [프로세스와 프로세스 관리_]: https://ku-na.tistory.com/5
-  
+[프로세스와 프로세스 관리_]: https://ku-na.tistory.com/5
+
   - 경욱 : [프로세스와 프로세스 관리_]
+
+- 
+
+------
+
+#### 3주차 
+
+###### 1월 7일 목요일 (자료구조 & 알고리즘 : 집합 & 문자열 검색 & 리스트)
+
+- 수빈 : 
+
+  [집합]: https://www.notion.so/a22acd4596694a2c98d1f9c85ec4c1dc
+  [문자열 검색]: https://www.notion.so/66b959fd1cad4ccda41dedb240e84af9
+  [리스트]: https://www.notion.so/b557dc9f73274dba9d00b6324c274613
+
+  1. [집합]
+  2. [문자열 검색]
+  3. [리스트]
+
   
