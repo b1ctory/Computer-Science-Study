@@ -72,5 +72,14 @@
   1. [집합]
   2. [문자열 검색]
   3. [리스트]
+  
+- 경욱 : 
+  [집합_]: https://ku-na.tistory.com/6?category=988999
+  [문자열 검색_]: https://ku-na.tistory.com/7?category=988999
+  [리스트_]: https://ku-na.tistory.com/8
+  
+  1. [집합_]
+  2. [문자열 검색_]
+  3. [리스트_]
 
   
