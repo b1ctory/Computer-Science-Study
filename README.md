@@ -91,3 +91,9 @@
   [스레드와 멀티태스킹]: https://www.notion.so/1a686cf12f684c8fb7f15d63a7125eb2
 
   1. [스레드와 멀티태스킹]
+  
+ - 경욱 : 
+  [스레드]: https://ku-na.tistory.com/9
+  
+  1. [스레드]
+  
