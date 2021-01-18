@@ -132,8 +132,12 @@
 - 수빈 :
 
   [CPU 스케줄링]: https://www.notion.so/CPU-5ab40ad244314f10b5442e1d2b2d2657
+  [스레드 동기화]: https://www.notion.so/4586f0cb25b8468993a1fbc7d8b7b132
+
+  
 
   1. [CPU 스케줄링]
+  2. [스레드 동기화]
 
 - 경욱 : 
 
