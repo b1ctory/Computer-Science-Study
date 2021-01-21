@@ -156,9 +156,14 @@
 
 [교착 상태]: https://www.notion.so/DEADLOCK-2514a08c9d724993aca2ac610e51a3c2
 [메모리 관리]: https://www.notion.so/MEMORY-MANAGEMENT-352375d4985e4569b9370e92dce35fa3
-
+[Deadlock]: https://ku-na.tistory.com/13?category=990765
+[메모리_관리]: https://ku-na.tistory.com/14?category=990765
 
 
 - 수빈
   1. [교착 상태]
   2. [메모리 관리]
+  
+- 경욱
+  1. [Deadlock]
+  2. [메모리_관리]
