@@ -155,6 +155,10 @@
 ###### 1월 21일 목요일 (운영체제 : 교착 상태(DEADLOCK) & 메모리 관리 )
 
 [교착 상태]: https://www.notion.so/DEADLOCK-2514a08c9d724993aca2ac610e51a3c2
+[메모리 관리]: https://www.notion.so/MEMORY-MANAGEMENT-352375d4985e4569b9370e92dce35fa3
+
+
 
 - 수빈
   1. [교착 상태]
+  2. [메모리 관리]
